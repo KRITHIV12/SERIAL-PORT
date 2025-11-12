@@ -45,6 +45,8 @@ while(1);
 }
 ```
 
+
+
 ### OUTPUT:
 <img width="493" height="262" alt="image" src="https://github.com/user-attachments/assets/3651e54b-1dca-4ee8-8e8d-7b1061a00393" />
 
